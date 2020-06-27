@@ -1,7 +1,7 @@
 import turtle
 
 win = turtle.Screen()
-win.title("pong by shashank")
+win.title("pong play")
 win.bgcolor("black")
 win.setup(width=800, height=600)
 win.tracer(0)
